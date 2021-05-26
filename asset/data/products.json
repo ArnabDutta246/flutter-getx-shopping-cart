@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "SPRING HERB PASTA",
+    "subtitle": "PAPPARDELLE ONLY",
+    "ingredients": "Durum wheat flour, eggs, lemon juice, parsley, dill, tarragon, water, semolina wheat flour.",
+    "description": "Serve with a Spring lamb sauce or combine with Spring vegetables: English peas, pea shoots, fresh artichokes or fava beans. Toss with loads of your favorite extra virgin olive oil.",
+    "image": "asset/images/pasta_1.png",
+    "price": 23,
+    "quantity": 1,
+    "category": "new"
+  },
+  {
+    "id": 2,
+    "name": "CHEESE TORTELLINI ",
+    "subtitle": "IN EGG PASTA",
+    "ingredients": "Parmesan, ricotta, asiago, romano, breadcrumbs, salt, nutmeg, black pepper. Durum wheat flour, eggs, water, semolina wheat flour.",
+    "description": "Delicious little bursts of umami. Our cheese tortellini is great in soups made with chicken or vegetable broth. Equally delicious and very kid-friendly doused in butter or red sauce.",
+    "image": "asset/images/pasta_2.png",
+    "price": 36,
+    "quantity": 1,
+    "category": "new"
+  },
+  {
+    "id": 3,
+    "name": "MUSHROOM",
+    "subtitle": "IN EGG PASTA",
+    "ingredients": "Mushrooms, parmesan, pecorino romano, port wine, breadcrumbs, porcini, garlic, salt, porcini powder, pepper. Durum wheat flour, eggs, semolina wheat flour.",
+    "description": "These tortelloni pack a punch of deep mushroom flavor. We love them tossed with kale sautéed with garlic and a pinch of chile flakes. Enhance the whole experience with grated Parmigiano-Reggiano.",
+    "image": "asset/images/pasta_3.png",
+    "price": 32,
+    "quantity": 1,
+    "category": "best seller"
+  },
+  {
+    "id": 4,
+    "name": "Gluten Pasta",
+    "subtitle": "PEPPER PASTA",
+    "ingredients": "Mushrooms, parmesan, pecorino romano, port wine, breadcrumbs, porcini, garlic, salt, porcini powder, pepper. Durum wheat flour, eggs, semolina wheat flour.",
+    "description": " pasta so close to the real thing, you’ll forget it’s gluten free. Our rice-based gluten-free fettuccine cooks just like traditional durum wheat pasta, while whole egg gives it that satisfying al dente bite. Learn how to cook it.",
+    "image": "asset/images/pasta_4.png",
+    "price": 29,
+    "quantity": 1,
+    "category": "best seller"
+  },
+  {
+    "id": 5,
+    "name": "CHEESE TORTELLINI",
+    "subtitle": "IN EGG PASTA",
+    "ingredients": "Parmesan, ricotta, asiago, romano, breadcrumbs, salt, nutmeg, pepper. Durum wheat flour, eggs, water, spinach, sweet red pepper, semolina wheat flour.",
+    "description": "Egg, spinach and sweet red pepper pasta make up the Tri in our Tri-Color Cheese Tortellini. Each individual colored tortellini is wrapped around a delicious blend of ricotta, Asiago and Romano cheeses.",
+    "image": "asset/images/pasta_5.png",
+    "price": 36,
+    "quantity": 1,
+    "category": "new"
+  },
+  {
+    "id": 6,
+    "name": "RED CHARD RAVIOLI",
+    "subtitle": "IN SWEET PASTA",
+    "ingredients": "Onion, red chard, ricotta, parmesan, monterey jack cheese, leeks, salt, mustard powder, black pepper. Durum wheat flour, eggs, sweet red peppers, water, semolina wheat flour.",
+    "description": "We mix together caramelized onions, sautéed red chard and ricotta cheese and then wrap it all up in our sweet red pepper pasta for a hearty, harmonious mouthful. The sweetness and gentle heat of our Roasted Tomato Arrabbiata Sauce is the perfect complement to the rich cheese filling and the slight bitterness of the Swiss chard.",
+    "image": "asset/images/pasta_6.png",
+    "price": 39,
+    "quantity": 1,
+    "category": "offer"
+  },
+  {
+    "id": 7,
+    "name": "CRAB RAVIOLI",
+    "subtitle": "IN LEMON HERB",
+    "ingredients": "Artichoke, crab, ricotta, parmesan, chives, lemon, salt, white pepper. Durum wheat flour, eggs, water, lemon, scallions, parsley, semolina wheat flour.",
+    "description": "Lump crabmeat, artichokes and ricotta stuffed into lemony herb pasta, this ravioli shines when tossed simply with extra virgin olive oil or high quality butter.",
+    "image": "asset/images/pasta_7.png",
+    "price": 33,
+    "quantity": 1,
+    "category": "offer"
+  },
+  {
+    "id": 8,
+    "name": "SPINACH RAVIOLI",
+    "subtitle": "IN SPINACH PASTA",
+    "ingredients": "Ricotta, spinach, mozzarella, parmesan, salt, mace, black pepper. Durum wheat flour, spinach, eggs, water, semolina wheat flour.",
+    "description": "Our version of the classic ravioli. Mozzarella makes the filling deliciously melty. Pair this ravioli with a tomato-based sauce, a light cream sauce or tons of extra virgin olive oil.",
+    "image": "asset/images/pasta_8.png",
+    "price": 27,
+    "quantity": 1,
+    "category": "new"
+  }
+]
